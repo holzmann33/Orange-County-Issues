@@ -31,11 +31,6 @@ the financial-outlook questions both surveys shared.
 ## Data
 Orange County Annual Surveys, 1989 and 1994
 (DOIs: 10.7280/D1KW29 and 10.7280/D1Z594).
-[Note here whether the data files are included in this folder or must be
-downloaded from the DOI links above.]
 
-## Reproducing
-Install the packages in the root `requirements.txt`, place the two `.zip` data
-files in this folder, and run the notebook from top to bottom.
 
 **Tools:** Python, pandas, NumPy, statsmodels, matplotlib
