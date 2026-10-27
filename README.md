@@ -4,7 +4,7 @@ A Python analysis comparing the two Orange County Annual Surveys: how residents'
 top concerns changed, which groups were most concerned, and whether the survey
 year still predicts concern after adjusting for demographics.
 
-**Rendered notebook:** [PAGES LINK]
+**Rendered notebook:** [https://holzmann33.github.io/Orange-County-Issues/]
 
 ## What the notebook does
 - Reads the original fixed-width survey files directly from the zipped data,
